@@ -1,0 +1,10 @@
+D:\实用软件\Visual Studio Data\ProgrammingDesign\bin\Debug\ProgrammingDesign.exe.config
+D:\实用软件\Visual Studio Data\ProgrammingDesign\bin\Debug\ProgrammingDesign.exe
+D:\实用软件\Visual Studio Data\ProgrammingDesign\bin\Debug\ProgrammingDesign.pdb
+D:\实用软件\Visual Studio Data\ProgrammingDesign\obj\Debug\ProgrammingDesign.csprojAssemblyReference.cache
+D:\实用软件\Visual Studio Data\ProgrammingDesign\obj\Debug\ProgrammingDesign.Properties.Resources.resources
+D:\实用软件\Visual Studio Data\ProgrammingDesign\obj\Debug\ProgrammingDesign.csproj.GenerateResource.cache
+D:\实用软件\Visual Studio Data\ProgrammingDesign\obj\Debug\ProgrammingDesign.csproj.CoreCompileInputs.cache
+D:\实用软件\Visual Studio Data\ProgrammingDesign\obj\Debug\ProgrammingDesign.exe
+D:\实用软件\Visual Studio Data\ProgrammingDesign\obj\Debug\ProgrammingDesign.pdb
+D:\实用软件\Visual Studio Data\ProgrammingDesign\obj\Debug\ProgrammingDesign.mainform.resources
